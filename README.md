@@ -12,7 +12,6 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
   - [Built with](#built-with)
 - [Author](#author)
 
-
 ## Overview
 
 ### The challenge
@@ -33,11 +32,10 @@ Users should be able to:
 ![](./assests/email-error.png)
 ![](./assests/success-state.png)
 
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [***Solution URL***]([https://your-solution-url.com](https://github.com/HibbaRizwan123/Intro-component-with-signup-form-solution))
+- Live Site URL: [***Live site URL***](https://your-live-site-url.com)
 
 ### Built with
 
@@ -47,9 +45,8 @@ Users should be able to:
 - CSS Grid
 - JavaScript
 
-
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [HibbaRizwan123](https://github.com/HibbaRizwan123)
+- Frontend Mentor - [@HibbaRizwan123G](https://www.frontendmentor.io/profile/HibbaRizwan123)
 
