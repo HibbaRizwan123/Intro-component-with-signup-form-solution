@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [***Solution URL***]([https://your-solution-url.com](https://github.com/HibbaRizwan123/Intro-component-with-signup-form-solution))
-- Live Site URL: [***Live site URL***](https://your-live-site-url.com)
+- Solution URL: [***Solution URL***](https://github.com/HibbaRizwan123/Intro-component-with-signup-form-solution)
+- Live Site URL: [***Live site URL***](https://hibbarizwan123.github.io/Intro-component-with-signup-form-solution/)
 
 ### Built with
 
@@ -48,5 +48,5 @@ Users should be able to:
 ## Author
 
 - Website - [HibbaRizwan123](https://github.com/HibbaRizwan123)
-- Frontend Mentor - [@HibbaRizwan123G](https://www.frontendmentor.io/profile/HibbaRizwan123)
+- Frontend Mentor - [@HibbaRizwan123](https://www.frontendmentor.io/profile/HibbaRizwan123)
 
